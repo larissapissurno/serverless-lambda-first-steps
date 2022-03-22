@@ -1,0 +1,23 @@
+{
+  "name": "serverless-lambda-first-steps",
+  "version": "1.0.0",
+  "description": "Lambda function with serverless framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larissapissurno/serverless-lambda-first-steps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larissapissurno/serverless-lambda-first-steps/issues"
+  },
+  "homepage": "https://github.com/larissapissurno/serverless-lambda-first-steps#readme",
+  "devDependencies": {
+    "serverless": "^3.8.0"
+  }
+}
