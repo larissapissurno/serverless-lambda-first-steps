@@ -10,7 +10,7 @@ The goal is:
 
 ## Prerequisites
 
-1. Also, make sure that you have a AWS account and [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html) configured as well.
+1. Make sure that you have a AWS account and [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html) configured as well.
 
 2. Make sure you have installed all of the following prerequisites on your development machine:
    - Git;
